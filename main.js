@@ -30,7 +30,6 @@ document.addEventListener("DOMContentLoaded", function () {
                     content.style.display = isOpen ? "none" : "block";
                     button.classList.toggle("active", !isOpen);
                     
-                    // Поворачиваем иконку
                     icon.style.transform = isOpen ? "rotate(0deg)" : "rotate(180deg)";
                     icon.style.transition = "transform 0.3s ease";
                 });
