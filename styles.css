@@ -1,7 +1,3 @@
-body {
-  background-color: #1c1d20;
-}
-
 .question-text {
   color: #fafafa;
   margin-right: 42px;
@@ -34,10 +30,6 @@ body {
   line-height: 1.5;
   letter-spacing: -0.02em;
   color: rgba(250, 250, 250, 0.4);
-}
-
-li {
-  list-style-type: none;
 }
 
 .faq-icon {
